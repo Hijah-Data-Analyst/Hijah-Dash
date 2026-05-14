@@ -1,7 +1,7 @@
 # Hijah-Dash 
 I deliver strategic sales insights by designing dashboards that drive business decisions. I help analysts, sales teams, and business managers uncover profit gaps and growth opportunities.
 # Hijah-Dash Portfolio
-# Project Overview  
+# Retail Sales project Overview  
 In this project, I designed an interactive retail sales dashboard in Microsoft Excel to uncover key business insights. Using a comprehensive dataset from kaggle, I transformed raw sales data into startegic visualizations, enabbling better decision-making around customer segments, sales channels, and revenue trends.
 # Business Objective
 The goal was to answer critical business questions:
