@@ -12,6 +12,8 @@ The goal was to answer critical business questions:
 * How do sales vary across different sales channels?
 # Analytical Approach
 I employed pivot tables to aggregate sales by time, customers demographics, and sales channels. Interactive slicers allowed me to filter by region, quantity, and sales amounts. Iused clustered bar charts, line charts, and column charts to highlight trends and performance indicators. Key formulas included summations, averages, and percentage changes to derive actionable insights.
+# Dashboard Preview
+![Dashboard](dashboard-preview.png)
 # Key Findings
 * Total sales grew steadily from 2024 to 2025, with a notable spike in the fourth quater.
 * The VIP and New customer segments produced the highest average sales, signaling strong growth potential.
