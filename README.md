@@ -28,3 +28,5 @@ I leveraged Excel's core analytics features:
 Future iterations will include incorporating seasonal analyses and customer retention metrics. I plan to deploy this dashboard in an organization's sales review meetings to support quarterly strategic planning.
 # Conclusion
 This dashboard demonstrates my ability to extract business value from data, connect analytical techniques to business objectives, and communicate insights that drive action.
+### File Access Note
+Please note, due to file size limitations, the full dashboard cannot be previewed directly on GitHub. If you would like to explore the complete file, you can download it using the 'Download' button provided above. Once downloaded, you can open the full dashboard on your local machine.
